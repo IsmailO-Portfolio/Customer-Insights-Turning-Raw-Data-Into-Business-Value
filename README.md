@@ -77,6 +77,8 @@ All transformations were carried out using **Microsoft Power Query**.
 10. **🗑️ Removed Blank Rows**  
     Eliminated empty or near empty records to improve data quality.
 
+## ![Cleaning Steps](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/Steps%20in%20Power%20Query.jpeg)
+
 ---
 
 ## 📈 Key Insights & Findings
@@ -143,6 +145,9 @@ These states present strong customer acquisition opportunities.
 - Traditional banks dominate salary accounts, fixed deposits, and dollar cards.
 - FinTechs lead in fast, low fee, mobile first banking.
 
+
+## [Dataset 1](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/dirty_nigerian_customer_data.xlsx)
+## [Dataset 2](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/nigerian_dirty_customer_data.xlsx)
 ---
 
 ## 🧠 Summary
@@ -153,6 +158,9 @@ These states present strong customer acquisition opportunities.
 - 🗺️ Nationwide customer representation  
 - 📊 Dataset is fully cleaned and analysis ready  
 
+
+
+## [Overall Dataset](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/Cleaned%20with%20Power%20Query.xlsx)
 ---
 
 ## 🛠️ Tools Used
