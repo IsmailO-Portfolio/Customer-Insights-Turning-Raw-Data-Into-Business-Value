@@ -15,6 +15,10 @@ The project involved:
 
 The final output is an analysis-ready dataset suitable for business intelligence, reporting, and decision making.
 
+## [Dataset 1](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/dirty_nigerian_customer_data.xlsx)
+## [Dataset 2](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/nigerian_dirty_customer_data.xlsx)
+
+
 ---
 
 ## 📂 Dataset Description
@@ -145,9 +149,8 @@ These states present strong customer acquisition opportunities.
 - Traditional banks dominate salary accounts, fixed deposits, and dollar cards.
 - FinTechs lead in fast, low fee, mobile first banking.
 
+## [Overall Dataset (Cleaned)](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/Cleaned%20with%20Power%20Query.xlsx)
 
-## [Dataset 1](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/dirty_nigerian_customer_data.xlsx)
-## [Dataset 2](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/nigerian_dirty_customer_data.xlsx)
 ---
 
 ## 🧠 Summary
@@ -160,7 +163,7 @@ These states present strong customer acquisition opportunities.
 
 
 
-## [Overall Dataset (Cleaned)](https://github.com/IsmailO-Portfolio/Customer-Insights-Turning-Raw-Data-Into-Business-Value/blob/main/Cleaned%20with%20Power%20Query.xlsx)
+
 ---
 
 ## 🛠️ Tools Used
